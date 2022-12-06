@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Kirin/static/css/main.8739f2bb.css",
+    "main.js": "/Kirin/static/js/main.96b08122.js",
+    "static/media/hero.jpg": "/Kirin/static/media/hero.25f30070466f3efec9fc.jpg",
+    "static/media/about1.jpg": "/Kirin/static/media/about1.109f193ddc7e46a0f61a.jpg",
+    "static/media/resbg.jpg": "/Kirin/static/media/resbg.f46c2d545f776cdf3bfa.jpg",
+    "static/media/about2.jpg": "/Kirin/static/media/about2.bff64b1e23ab763c3021.jpg",
+    "static/media/HIROMISAKE.ttf": "/Kirin/static/media/HIROMISAKE.7ee24fcc5449833e4066.ttf",
+    "static/media/food4.jpg": "/Kirin/static/media/food4.391ae54fe14fe484ae04.jpg",
+    "static/media/food8.jpg": "/Kirin/static/media/food8.031b730c1abff2bb28db.jpg",
+    "static/media/food6.jpg": "/Kirin/static/media/food6.cde54fd5ee66fe0c4d3f.jpg",
+    "static/media/food9.jpg": "/Kirin/static/media/food9.cce36abd7928a5d0e35e.jpg",
+    "static/media/food1.jpg": "/Kirin/static/media/food1.a69c4e33cb3214d07bdc.jpg",
+    "static/media/food5.jpg": "/Kirin/static/media/food5.ed1edd16c2d0f932b301.jpg",
+    "static/media/food3.jpg": "/Kirin/static/media/food3.2f836380a79e9faa2a21.jpg",
+    "static/media/food7.jpg": "/Kirin/static/media/food7.1cdcfd1251654d3af93a.jpg",
+    "static/media/food2.jpg": "/Kirin/static/media/food2.ae9dc9810f3170a6c6df.jpg",
+    "index.html": "/Kirin/index.html",
+    "main.8739f2bb.css.map": "/Kirin/static/css/main.8739f2bb.css.map",
+    "main.96b08122.js.map": "/Kirin/static/js/main.96b08122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8739f2bb.css",
+    "static/js/main.96b08122.js"
+  ]
+}
