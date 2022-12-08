@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/kirin/static/css/main.3ea4c87d.css",
-    "main.js": "/kirin/static/js/main.088566bd.js",
+    "main.css": "/kirin/static/css/main.f82103ea.css",
+    "main.js": "/kirin/static/js/main.ab6fbffe.js",
     "static/media/hero.jpg": "/kirin/static/media/hero.25f30070466f3efec9fc.jpg",
     "static/media/about1.jpg": "/kirin/static/media/about1.109f193ddc7e46a0f61a.jpg",
-    "static/media/resbg.jpg": "/kirin/static/media/resbg.f46c2d545f776cdf3bfa.jpg",
     "static/media/about2.jpg": "/kirin/static/media/about2.bff64b1e23ab763c3021.jpg",
     "static/media/HIROMISAKE.ttf": "/kirin/static/media/HIROMISAKE.7ee24fcc5449833e4066.ttf",
     "static/media/food4.jpg": "/kirin/static/media/food4.391ae54fe14fe484ae04.jpg",
@@ -17,11 +16,11 @@
     "static/media/food7.jpg": "/kirin/static/media/food7.1cdcfd1251654d3af93a.jpg",
     "static/media/food2.jpg": "/kirin/static/media/food2.ae9dc9810f3170a6c6df.jpg",
     "index.html": "/kirin/index.html",
-    "main.3ea4c87d.css.map": "/kirin/static/css/main.3ea4c87d.css.map",
-    "main.088566bd.js.map": "/kirin/static/js/main.088566bd.js.map"
+    "main.f82103ea.css.map": "/kirin/static/css/main.f82103ea.css.map",
+    "main.ab6fbffe.js.map": "/kirin/static/js/main.ab6fbffe.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea4c87d.css",
-    "static/js/main.088566bd.js"
+    "static/css/main.f82103ea.css",
+    "static/js/main.ab6fbffe.js"
   ]
 }
