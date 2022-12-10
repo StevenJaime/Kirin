@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kirin/static/css/main.f163e96f.css",
-    "main.js": "/kirin/static/js/main.c755c6f1.js",
+    "main.css": "/kirin/static/css/main.ca43ebeb.css",
+    "main.js": "/kirin/static/js/main.7afa2b21.js",
     "static/media/hero.jpg": "/kirin/static/media/hero.12d3acc5bb64afabd572.jpg",
     "static/media/about2.webp": "/kirin/static/media/about2.e5b23421ada9068176c4.webp",
     "static/media/hero.webp": "/kirin/static/media/hero.477ba3cf2006d38a75ad.webp",
@@ -17,11 +17,11 @@
     "static/media/food7.jpg": "/kirin/static/media/food7.1cdcfd1251654d3af93a.jpg",
     "static/media/food2.jpg": "/kirin/static/media/food2.ae9dc9810f3170a6c6df.jpg",
     "index.html": "/kirin/index.html",
-    "main.f163e96f.css.map": "/kirin/static/css/main.f163e96f.css.map",
-    "main.c755c6f1.js.map": "/kirin/static/js/main.c755c6f1.js.map"
+    "main.ca43ebeb.css.map": "/kirin/static/css/main.ca43ebeb.css.map",
+    "main.7afa2b21.js.map": "/kirin/static/js/main.7afa2b21.js.map"
   },
   "entrypoints": [
-    "static/css/main.f163e96f.css",
-    "static/js/main.c755c6f1.js"
+    "static/css/main.ca43ebeb.css",
+    "static/js/main.7afa2b21.js"
   ]
 }
